@@ -1,64 +1,72 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace" width="985px" height="550px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace" width="985px" height="630px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
 .key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;}
 .addColor {fill: #3fb950;} .delColor {fill: #f85149;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="550px" fill="#161b22" rx="15"/>
+<rect width="985px" height="630px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30"></tspan>
-<tspan x="15" y="50"></tspan>
-<tspan x="15" y="70">              |%%%%%%%%j</tspan>
-<tspan x="15" y="90">              l@@@@@@@@k</tspan>
-<tspan x="15" y="110">              j@M@@@@M@r</tspan>
-<tspan x="15" y="130">              l@@@@@@@@m</tspan>
-<tspan x="15" y="150">jjjij:        :llllllll!        ^jijjj</tspan>
-<tspan x="15" y="170">@@@@@r                          i@@@@@</tspan>
-<tspan x="15" y="190">@@@M@l                          |@M@@@</tspan>
-<tspan x="15" y="210">@@@@@j                          |@@@@@</tspan>
-<tspan x="15" y="230">@@@@@r,,,,,,,,,,,,,,,,,,,,,,,,,,j@@@@@</tspan>
-<tspan x="15" y="250">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="270">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="290">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="310">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="330">@@@@@k^^^^^^^^^^^^^^^^^^^^^^^^^^l@@@@@</tspan>
-<tspan x="15" y="350">@@@@@j                          !@@@@@</tspan>
-<tspan x="15" y="370">@@@@@l .                      . |@@@@@</tspan>
-<tspan x="15" y="390">@@@@@l                          |@@@@@</tspan>
-<tspan x="15" y="410">@@@@@l                          |@@@@@</tspan>
-<tspan x="15" y="430">@@@@@l                          |@@@@@</tspan>
-<tspan x="15" y="450">@@@@@l                          |@@@@@</tspan>
-<tspan x="15" y="470">@@@@@l                          |@@@@@</tspan>
-<tspan x="15" y="490">HHHHHi                          !HHHHH</tspan>
-<tspan x="15" y="510"></tspan>
-<tspan x="15" y="530"></tspan>
+<tspan x="15" y="50">             kw%HHH%%%wk</tspan>
+<tspan x="15" y="70">           wH##HH%wwmkkkll</tspan>
+<tspan x="15" y="90">         kH####HH%wwmmkliijl</tspan>
+<tspan x="15" y="110">        w#HHHHHH%%wmmmkli|ijl</tspan>
+<tspan x="15" y="130">       r#%%%%%%wwmmmmmrli||jkH</tspan>
+<tspan x="15" y="150">       w%%%%HHH%wmmwwmmliiir#@r</tspan>
+<tspan x="15" y="170">       m%wwkljjlrllkl|!;!|;m#@w</tspan>
+<tspan x="15" y="190">       w%mi!;:'`;m%i''``,,`;mMlj</tspan>
+<tspan x="15" y="210">     rr%%%mrkl|jm%Hr':i|||i!|H;:l</tspan>
+<tspan x="15" y="230">     k%%%HHH%w%%%H#m;,lmw%mli#|!l</tspan>
+<tspan x="15" y="250">      #m%H%HHkikwH#k:`;kwmlikHii</tspan>
+<tspan x="15" y="270">       kmHwmr|rHkri,'``|lli|kkr</tspan>
+<tspan x="15" y="290">       jkwwmllkmmk|i;,::!ji;ik</tspan>
+<tspan x="15" y="310">        lmmwmlkkkmrri;:!lk!;ll</tspan>
+<tspan x="15" y="330">         ilrm%#H%mll|!|ij|,|l</tspan>
+<tspan x="15" y="350">         kl!jkw%HH%mkri!!:;kj</tspan>
+<tspan x="15" y="370">    rrrr%HHr!|kmwmkrj|;!!!|wwiljl</tspan>
+<tspan x="15" y="390">rkkrlljj#H%Hmj!|!:::,`:;;;|kj;;!|!illr</tspan>
+<tspan x="15" y="410">rrljjjiil#H%%wml|;:,,:::;!!!;;:;;!;!|i</tspan>
+<tspan x="15" y="430">ljjjjjji|j%HH%wmkli!;;!;;;;;;:;!!!|||i</tspan>
+<tspan x="15" y="450">jijljjiiii|jrw%%mrlllli;!ijj::!||||iii</tspan>
+<tspan x="15" y="470">ijjjjjii|ii!:!|lwwwH#wrkwwjr;:||iiiiij</tspan>
+<tspan x="15" y="490">jijjjjiii|ii|i!;;rH###M@wllr;,|iiiijjj</tspan>
+<tspan x="15" y="510">jjjjjjjiii|iiij|i|##M@Mrjlj|`,!|ijjjjj</tspan>
+<tspan x="15" y="530">jjjjjjjiijjiiii|!;lMMwji|:``:;|ijjjjjj</tspan>
+<tspan x="15" y="550">jjjjiiijijjjiijj!||Hmi;,`,;|iijjjjjiij</tspan>
+<tspan x="15" y="570">jjjiijiiiijjjiijj!il:``;|ijjjjjjjjiiii</tspan>
+<tspan x="15" y="590">iiiiijiiiiiijiijjj|`,!ijjjjjjjjjjiiii|</tspan>
+<tspan x="15" y="610">|iiiiiiii|iiiii|i|,!iiiiiijiiiiiii|ii|</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">sidney@erklaert.ki -—————————————————————————————————————-—-</tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">macOS, iOS</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">40 Jahre</tspan></tspan>
-<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Head of AI @ renommiertes deutsches Unternehmen</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">40 Jahre, 0 Monate, 2 Tage</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Head of AI</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Interpretable Context Methodology (KOSMOS)</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Claude Code, Codex, Cursor</tspan></tspan>
 <tspan x="390" y="150"><tspan class="cc">. </tspan></tspan>
-<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">TypeScript, Python, Swift</tspan></tspan>
-<tspan x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Automation</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">n8n, Voice Agents, Chatbots, MCP</tspan></tspan>
-<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Deutsch, English</tspan></tspan>
-<tspan x="390" y="230"><tspan class="cc">. </tspan></tspan>
-<tspan x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">KI-Agenten, Remotion, Motion Graphics</tspan></tspan>
-<tspan x="390" y="270"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Content</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">YouTube, Instagram, TikTok</tspan></tspan>
-<tspan x="390" y="310">- Contact -——————————————————————————————————————————————-—-</tspan>
-<tspan x="390" y="330"><tspan class="cc">. </tspan><tspan class="key">YouTube</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">@sidneyerklaertki</tspan></tspan>
-<tspan x="390" y="350"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">@sidneyerklaert.ki</tspan></tspan>
-<tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">TikTok</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">@sidneyerklaert.ki</tspan></tspan>
-<tspan x="390" y="390"><tspan class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">@sidneyerklaert</tspan></tspan>
-<tspan x="390" y="410"><tspan class="cc">. </tspan><tspan class="key">Threads</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">@sidneyerklaert.ki</tspan></tspan>
-<tspan x="390" y="430"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">sidneyerklaert</tspan></tspan>
-<tspan x="390" y="470">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
-<tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">9</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">9</tspan>}<tspan class="cc"> | </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">448</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="390" y="530"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">579,031</tspan> ( <tspan class="addColor">683,673++</tspan>, <tspan class="delColor">104,642--</tspan> )</tspan>
+<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">TypeScript, Python, Swift, SQL</tspan></tspan>
+<tspan x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">JavaScript, HTML, CSS, Next.js</tspan></tspan>
+<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Automation</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">n8n, Webhooks, APIs, Docker, Bash</tspan></tspan>
+<tspan x="390" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Voice Agents, Chatbots, RAG, MCP</tspan></tspan>
+<tspan x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Deutsch, English</tspan></tspan>
+<tspan x="390" y="270"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="290"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Agentic Coding, Multi-Agent-Systeme</tspan></tspan>
+<tspan x="390" y="310"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Agentic</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Claude Code Skills, Subagents</tspan></tspan>
+<tspan x="390" y="330"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Tooling</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">MCP-Server, Computer Use, Remotion</tspan></tspan>
+<tspan x="390" y="350"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Content</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">YouTube, Instagram, TikTok</tspan></tspan>
+<tspan x="390" y="390">- Contact -——————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="410"><tspan class="cc">. </tspan><tspan class="key">YouTube</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">@sidneyerklaertki</tspan></tspan>
+<tspan x="390" y="430"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">@sidneyerklaert.ki</tspan></tspan>
+<tspan x="390" y="450"><tspan class="cc">. </tspan><tspan class="key">TikTok</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">@sidneyerklaert.ki</tspan></tspan>
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">@sidneyerklaert</tspan></tspan>
+<tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Threads</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">@sidneyerklaert.ki</tspan></tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">sidneyerklaert</tspan></tspan>
+<tspan x="390" y="550">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="570"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">9</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">9</tspan>}<tspan class="cc"> | </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="390" y="590"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">448</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="390" y="610"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">579,031</tspan> ( <tspan class="addColor">683,673++</tspan>, <tspan class="delColor">104,642--</tspan> )</tspan>
 </text>
 </svg>

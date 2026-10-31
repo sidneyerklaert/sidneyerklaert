@@ -27,10 +27,9 @@ import urllib.request
 
 USER_NAME = os.environ.get("USER_NAME", "sidneyerklaert")
 
-# TODO(Sidney): echtes Geburtsdatum eintragen. Solange PLACEHOLDER_BIRTHDATE=True
-# ist, wird nur das Alter in ganzen Jahren angezeigt ("40 Jahre").
-BIRTHDATE = dt.date(1986, 1, 1)
-PLACEHOLDER_BIRTHDATE = True
+# Solange PLACEHOLDER_BIRTHDATE=True ist, wird nur das Alter in Jahren angezeigt.
+BIRTHDATE = dt.date(1986, 10, 29)
+PLACEHOLDER_BIRTHDATE = False
 
 TITLE = "sidney@erklaert.ki"
 WIDTH = 60           # Zeichen pro Zeile in der rechten Spalte
@@ -45,23 +44,27 @@ ROWS = [
     ("rule", TITLE),
     ("OS", "macOS, iOS"),
     ("Uptime", "{uptime}"),
-    ("Host", "Head of AI @ renommiertes deutsches Unternehmen"),
+    ("Host", "Head of AI"),
     ("Kernel", "Interpretable Context Methodology (KOSMOS)"),
     ("IDE", "Claude Code, Codex, Cursor"),
     None,
-    ("Languages.Programming", "TypeScript, Python, Swift"),
-    ("Languages.Automation", "n8n, Voice Agents, Chatbots, MCP"),
+    ("Languages.Programming", "TypeScript, Python, Swift, SQL"),
+    ("Languages.Web", "JavaScript, HTML, CSS, Next.js"),
+    ("Languages.Automation", "n8n, Webhooks, APIs, Docker, Bash"),
+    ("Languages.AI", "Voice Agents, Chatbots, RAG, MCP"),
     ("Languages.Real", "Deutsch, English"),  # TODO(Sidney): Türkçe ergänzen?
     None,
-    ("Hobbies.Software", "KI-Agenten, Remotion, Motion Graphics"),
+    ("Hobbies.Software", "Agentic Coding, Multi-Agent-Systeme"),
+    ("Hobbies.Agentic", "Claude Code Skills, Subagents"),
+    ("Hobbies.Tooling", "MCP-Server, Computer Use, Remotion"),
     ("Hobbies.Content", "YouTube, Instagram, TikTok"),
     ("blank",),
     ("rule", "- Contact"),
     ("YouTube", "@sidneyerklaertki"),
     ("Instagram", "@sidneyerklaert.ki"),
-    ("TikTok", "@sidneyerklaert.ki"),      # TODO: Handle prüfen
+    ("TikTok", "@sidneyerklaert.ki"),
     ("X", "@sidneyerklaert"),
-    ("Threads", "@sidneyerklaert.ki"),     # TODO: Handle prüfen
+    ("Threads", "@sidneyerklaert.ki"),
     ("GitHub", "sidneyerklaert"),
     ("blank",),
     ("rule", "- GitHub Stats"),
@@ -308,8 +311,11 @@ def main():
     else:
         stats = fetch_stats()
         json.dump(stats, open(STATS_FILE, "w"), indent=1)
-    ascii_lines = open(os.path.join(HERE, "ascii.txt"), encoding="utf-8").read().splitlines()
     for name in THEMES:
+        art = "ascii_dark.txt" if name.startswith("dark") else "ascii.txt"
+        if not os.path.exists(os.path.join(HERE, art)):
+            art = "ascii.txt"
+        ascii_lines = open(os.path.join(HERE, art), encoding="utf-8").read().splitlines()
         with open(os.path.join(HERE, name), "w", encoding="utf-8") as f:
             f.write(build_svg(name, ascii_lines, stats))
     print(("offline" if offline else "live"), stats)

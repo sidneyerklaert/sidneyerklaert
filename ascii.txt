@@ -1,26 +1,30 @@
 
-
-              |%%%%%%%%j
-              l@@@@@@@@k
-              j@M@@@@M@r
-              l@@@@@@@@m
-jjjij:        :llllllll!        ^jijjj
-@@@@@r                          i@@@@@
-@@@M@l                          |@M@@@
-@@@@@j                          |@@@@@
-@@@@@r,,,,,,,,,,,,,,,,,,,,,,,,,,j@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@k^^^^^^^^^^^^^^^^^^^^^^^^^^l@@@@@
-@@@@@j                          !@@@@@
-@@@@@l .                      . |@@@@@
-@@@@@l                          |@@@@@
-@@@@@l                          |@@@@@
-@@@@@l                          |@@@@@
-@@@@@l                          |@@@@@
-@@@@@l                          |@@@@@
-HHHHHi                          !HHHHH
-
-
+             |;:,,,,::;!
+           ;,``,,::;!!!!ij
+         !,````,,,:;;!|illjj
+        ;`,,,,,,::;!!!|ilrllj
+       |`,,,:,::;;!!!!|ilkrj|,
+       ;,:::,,,::!!:;!!ilrri`'|
+       ;::;!ijjjiii!jrkwmkw!`';
+       ;:!lkw%@Mw;,lM@##HH#w;'jj
+     |i,::!i|ikj!,`iMwlkkklkr,mwi
+     |:::,,,::,::,`!wHi;::;ir`kkj
+      `!:,,,,!l|:,`|w#w|;;il|,rl
+       !;,:;|ri,||l%@#Hkiirk!|i
+       j|:;!ij!!;|rlwH%%mjlml|
+        j;!;;j!!|!|irw%mj!kwji
+         rj|!:`,:!ijrmrljr%ki
+         !jmj!:,,,:;|ilkm%m|j
+    ||||,``imr|;;;!ijrmkmmk;;ljji
+|!!|iijl`,:,!lkrk%%%H#%mmmk!jwwmkkljji
+|iijjjllj`,:::!jrw%HH%%%wmkkwwwmmmmkkr
+ijjjllllkj:,,::;!ilkmmkmwmwwm%mmmkkrrr
+jlljllrllrkj|;,:;|ijiilmkljj%wkkrrrlll
+llljllrlrllm%mri;::,`:||:;j|wwkrllrlll
+jlljjjlllrllklkwwi````'';ijiw%krllllll
+ljjlljlrllrrlrlrlr```''|lijk#%krlljljl
+lllllljlljlrrllrkmi'':llr%##%mrlljjllj
+lllllllllljlllljkkk,!rwH#Hmklljjllllll
+llllllllllllllljjkliw#Hwklljjjjljlllll
+lllllllllllllllljjr#Hmllllllllljlllllr
+rlrllrlrrrrllllrrrHkrlllllllllllrrrrrr
