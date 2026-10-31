@@ -15,4 +15,3 @@
   <a href="https://www.linkedin.com/in/sidney-bora-n-2472ba3b4">LinkedIn</a>
 </p>
 
-<sub>Design inspiriert von <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew6rant</a>.</sub>
