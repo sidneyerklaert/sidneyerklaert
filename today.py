@@ -33,9 +33,12 @@ PLACEHOLDER_BIRTHDATE = False
 
 TITLE = "sidney@erklaert.ki"
 WIDTH = 60           # Zeichen pro Zeile in der rechten Spalte
-X_ASCII, X_INFO = 15, 390
+X_ASCII = 15
+PORTRAIT_COLS = 44   # Breite des ASCII-Porträts (muss zu ascii.txt passen)
+CHAR_W = 9.6
+X_INFO = round(X_ASCII + PORTRAIT_COLS * CHAR_W + 15)
 Y_START, LINE_H = 30, 20
-SVG_W = 985
+SVG_W = round(X_INFO + WIDTH * CHAR_W + 25)
 
 # Zeilen der rechten Spalte. None = Leerzeile mit Punkt, ("rule", titel) = Abschnitt,
 # ("blank",) = komplett leer, ("stats",) = GitHub-Stats-Block.
@@ -44,15 +47,20 @@ ROWS = [
     ("rule", TITLE),
     ("OS", "macOS, iOS"),
     ("Uptime", "{uptime}"),
-    ("Host", "Head of AI"),
-    ("Kernel", "Interpretable Context Methodology (KOSMOS)"),
+    ("Host", "Head of AI @ Nothelle"),
+    ("Kernel", "KOSMOS"),
     ("IDE", "Claude Code, Codex, Cursor"),
     None,
     ("Languages.Programming", "TypeScript, Python, Swift, SQL"),
     ("Languages.Web", "JavaScript, HTML, CSS, Next.js"),
     ("Languages.Automation", "n8n, Webhooks, APIs, Docker, Bash"),
     ("Languages.AI", "Voice Agents, Chatbots, RAG, MCP"),
-    ("Languages.Real", "Deutsch, English"),  # TODO(Sidney): Türkçe ergänzen?
+    ("Languages.Real", "Deutsch, English, Turkish"),
+    None,
+    ("Models.Local", "Ollama, Whisper"),
+    ("Models.Platforms", "OpenRouter, ElevenLabs"),
+    ("Models.Benchmarks", "Artificial Analysis, LMArena"),
+    ("Stack.Backend", "Supabase, PostgreSQL, Linux VPS"),
     None,
     ("Hobbies.Software", "Agentic Coding, Multi-Agent-Systeme"),
     ("Hobbies.Agentic", "Claude Code Skills, Subagents"),
@@ -65,6 +73,7 @@ ROWS = [
     ("TikTok", "@sidneyerklaert.ki"),
     ("X", "@sidneyerklaert"),
     ("Threads", "@sidneyerklaert.ki"),
+    ("LinkedIn", "Sidney Bora Neudeck"),
     ("GitHub", "sidneyerklaert"),
     ("blank",),
     ("rule", "- GitHub Stats"),

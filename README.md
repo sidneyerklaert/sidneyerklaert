@@ -6,4 +6,13 @@
   </picture>
 </a>
 
+<p>
+  <a href="https://www.youtube.com/@sidneyerklaertki">YouTube</a> ·
+  <a href="https://www.instagram.com/sidneyerklaert.ki/">Instagram</a> ·
+  <a href="https://www.tiktok.com/@sidneyerklaert.ki">TikTok</a> ·
+  <a href="https://x.com/sidneyerklaert">X</a> ·
+  <a href="https://www.threads.com/@sidneyerklaert.ki">Threads</a> ·
+  <a href="https://www.linkedin.com/in/sidney-bora-n-2472ba3b4">LinkedIn</a>
+</p>
+
 <sub>Design inspiriert von <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew6rant</a>.</sub>
