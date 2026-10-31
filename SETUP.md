@@ -14,7 +14,7 @@ GitHub zeigt eine Profil-README nur, wenn das Repo **öffentlich** ist und genau
 Das Foto liegt bewusst nicht im Repo. Neu erzeugen (lokal):
 ```bash
 pip install pillow "rembg[cpu]"
-python tools/make_ascii.py foto.png --rembg --cols 44 --rows 37 --crop 225,15,625,700 --flatten 0 --gamma 1.2   # Werte für das 800×800-LinkedIn-Foto
+python tools/make_ascii.py foto.png --rembg --cols 44 --rows 37 --crop 90,20,500,576 --flatten 0.9 --gamma 1.1 --blur 12   # Werte für das 576×576-Foto
 python today.py --offline
 ```
 Ergebnis: `ascii.txt` (hell) und `ascii_dark.txt` (dunkel, invertiert).
